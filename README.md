@@ -1,6 +1,6 @@
 # AMSI Optimise 2019 - Optimising Crop Rotation Schedules
 
-Alysson M. Costa and Simon Bowly
+### Alysson M. Costa and Simon Bowly
 
 In the first part of this hands-on session, we will present a crop rotation problem in the context of sustainable vegetable production. We will develop a compact mixed-integer programming model, which will be implemented and solved with free online optimisation tools (JuliaBox/JuMP/Cbc).  In the second part, the crop rotation model will be extended to include plot area planning in order to satisfy required demands.  The new formulation has a large number of variables and we will present and implement a delayed column generation method for the efficient obtention of solutions.
 
